@@ -1,0 +1,92 @@
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#hdr{
+    background-color:azure;
+}
+header{
+    font-size: x-large;
+    color:white;
+}
+p{
+    text-align: center;
+}
+#fr{ text-align: center;
+    color: rgb(47, 28, 28);
+    font-size:auto;
+}
+h1{
+    text-align: center;
+    margin-top: 12%;
+    margin-right: 8%;
+    font-size: 360%;
+    font-style:thick;
+}
+h2{
+    text-align: center;
+    margin-right: 8%;
+    font-size: 130%;
+    font-style:inherit;
+
+}
+form input{
+    width: 430px;
+    height: 25px;
+    padding: 12px;
+    margin-left: 18%;
+    margin-bottom: 110px;
+}
+#b2{
+    width: 220px;
+    height: 56px;
+    padding: 10px;
+    font-size:larger;
+    font-style:normal;
+    background-color: red;
+
+}
+select{width: 90px;
+    height: 30px;
+    margin-left: 1009px;
+    margin-top:000px;
+    background-color:black;   
+}
+#b1{
+    bottom:80px;
+    right: 0%;
+    margin-left: 94%;
+    width: 80px;
+    height: 30px;
+    background-color:red;
+    margin-top:0px;    
+}
+#n1{
+    text-align: center;
+}
+#n2{
+    text-align: center;
+}
+#g{
+    color:rgb(248, 1, 1);
+    background-color: black;
+}
+#w{
+    color:white;
+    background-color: rgb(19, 111, 111);
+}
+#A{
+    margin-top: 276px;
+    margin-left: 450px;
+}
+#hd2{
+    color:blue;
+    font-size: xx-large;  
+}
+#a1{
+    text-align: center;
+    font-size: larger;
+    color: darkblue;
+    bottom: 100px;
+}
